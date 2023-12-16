@@ -1,4 +1,4 @@
-# ComputerProgramming-Lab2
+# ComputerProgramming-Lab2-HT2021
 
 The lab assignment is focused on arrays, strings, modules, pointers, and memory management in computer programming. It's divided into three problems:
 
